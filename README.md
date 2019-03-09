@@ -13,3 +13,4 @@ A decentralized application that registers your certificate on the blockchain
  
  The content also contains a JSON file which is used for the dependencies for the lite-server v.2.4.0 under the MIT license for testing yarn.
  
+Be sure to have node_modules. You can install it using npm, there are a lot of tutorials on the internet that help you understand how to install npm. For this web UI, I have used npm v6.4.1
